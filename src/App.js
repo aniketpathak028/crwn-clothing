@@ -1,3 +1,4 @@
+import "./categories.styles.scss";
 const App = () => {
   const categories = [
     {
@@ -19,7 +20,7 @@ const App = () => {
     {
       id: 1,
       title: "Mens",
-    }
+    },
   ];
 
   return (
